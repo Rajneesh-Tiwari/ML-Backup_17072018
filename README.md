@@ -4,8 +4,8 @@ Backup Repo of ML Classes: Until Class 8
 
 Class Coverage:
 
-Class 1: Python 101
-Class 2: Python 201
+- Class 1: Python 101
+- Class 2: Python 201
 Class 3: Python 301 (advanced python, numpy, pandas)
 Class 4: Data Science 101
 Class 5: Validation Concepts
