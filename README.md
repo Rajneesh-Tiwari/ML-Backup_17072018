@@ -18,10 +18,10 @@ Class Coverage:
 - Class 11:  Unsupervised Learning (k-means, k-medioids, k-means++, dbScan, Latent class methods)
 - Class 12:  Neural Networks 101
 - Class 12A: Pytorch 101
-- Class 14:  NNETs for Structured Machine Learning
-- Class 15:  Convolutional Neural Networks (CNN) 101
-- Class 16:  CNN common architectures (VGG16/19, ResNet, DenseNet, Inception, ResNext etc.)
-- Class 17:  Recommendation systems with DNNs (vs. matrix factorizations)
-- Class 18:  High level overview of LSTM, RNN, GRU
-- Class 18A: NLP case study demo
-- Class 19: Excel for data analysis
+- Class 13:  NNETs for Structured Machine Learning
+- Class 14:  Convolutional Neural Networks (CNN) 101
+- Class 15:  CNN common architectures (VGG16/19, ResNet, DenseNet, Inception, ResNext etc.)
+- Class 16:  Recommendation systems with DNNs (vs. matrix factorizations)
+- Class 17:  High level overview of LSTM, RNN, GRU
+- Class 17A: NLP case study demo
+- Class 18: Excel for data analysis
