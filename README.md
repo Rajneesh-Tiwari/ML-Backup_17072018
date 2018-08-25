@@ -16,12 +16,13 @@ Class Coverage:
 - Class 10:  Dimensionality Reduction
 - Class 10A: Matrix Factorization (SVD, NMF methods), Recommender systems
 - Class 11:  Unsupervised Learning (k-means, k-medioids, k-means++, dbScan, Latent class methods)
-- Class 12:  Neural Networks 101
-- Class 12A: Pytorch 101
-- Class 13:  NNETs for Structured Machine Learning
-- Class 14:  Convolutional Neural Networks (CNN) 101
-- Class 15:  CNN common architectures (VGG16/19, ResNet, DenseNet, Inception, ResNext etc.)
-- Class 16:  Recommendation systems with DNNs (vs. matrix factorizations)
-- Class 17:  High level overview of LSTM, RNN, GRU
-- Class 17A: NLP case study demo
-- Class 18: Excel for data analysis
+- Class 12:  Advanced Feature Engineering methods (target encoding, likelihood features, knn based features, weight of evidence features)
+- Class 13:  Neural Networks 101
+- Class 14: Pytorch 101
+- Class 15:  NNETs for Structured Machine Learning
+- Class 16:  Convolutional Neural Networks (CNN) 101
+- Class 17:  CNN common architectures (VGG16/19, ResNet, DenseNet, Inception, ResNext etc.)
+- Class 18:  Recommendation systems with DNNs (vs. matrix factorizations)
+- Class 19:  High level overview of LSTM, RNN, GRU
+- Class 20: NLP case study demo
+- Class 21: Excel for data analysis
